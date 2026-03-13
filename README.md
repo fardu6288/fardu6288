@@ -46,11 +46,34 @@ Currently focused on machine learning, automation, and backend development.
 ## 🚀 Projects
 
 ### 📈 Semi-Automated Trading Bot
-- 🔎 Market scanning using **SMA / EMA**
-- ⚡ Built with **FastAPI + Zerodha Kite API**
-- 📊 Dashboard for signals and trade execution
-
+- Market scanning using **SMA / EMA indicators**
+- Built with **FastAPI** and **Zerodha Kite API**
+- Web dashboard for trade signals and execution  
 **Tech:** Python • FastAPI • MySQL
+
+---
+
+### 🧑‍💻 Face Attendance System
+- Automated attendance system using **face recognition**
+- Detects and marks attendance in real time using webcam
+- Stores attendance records in a database  
+**Tech:** Python • OpenCV • Face Recognition
+
+---
+
+### 🕵️ Crime Data Analysis System
+- Analyzes crime datasets to identify patterns and trends
+- Data visualization for crime statistics and insights
+- Helps understand crime distribution by region and type  
+**Tech:** Python • Pandas • Data Visualization
+
+---
+
+### ✋ Gesture Controlled Nokia Phone
+- Control Nokia phone actions using **hand gestures**
+- Gesture recognition using computer vision
+- Enables touchless interaction with the device  
+**Tech:** Python • OpenCV • Computer Vision
 
 ---
 
