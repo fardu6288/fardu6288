@@ -30,7 +30,7 @@ Currently focused on machine learning, automation, and backend development.
 ## 🛠️ Skills
 
 ### Programming
-Python
+Python • HTML •CSS
 
 ### Technologies
 Machine Learning • FastAPI • Data Analysis
