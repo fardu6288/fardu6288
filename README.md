@@ -32,42 +32,14 @@ Currently focused on machine learning, automation, and backend development.
 
 ## 🛠️ Skills
 
-<p align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### 💻 Programming Languages
+### Programming & Web
 <img src="https://skillicons.dev/icons?i=python,html,css" />
 
-</td>
-
-<td align="center" width="50%">
-
-### 🤖 AI / ML
+### AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,vscode" />
-
-</td>
-
-</tr>
-
-</table>
-
-</p>
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,vscode,postman" />
 
 ## 🚀 Projects
 
