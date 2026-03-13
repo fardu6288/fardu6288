@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="left">
+  👋 Hi, I'm <strong>Muhammad Fardan Naheem</strong>
+</h1>
 
-<!--
-**fardu6288/fardu6288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>AI Student | Python • Machine Learning • System Design</h3>
 
-Here are some ideas to get you started:
+<p>
+I'm a B.Tech Artificial Intelligence student interested in building practical AI systems and data-driven tools.  
+Currently focused on machine learning, automation, and backend development.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+📍 India <br>
+🎓 B.Tech in Artificial Intelligence <br>
+🚀 Interested in AI, Trading Systems, and Automation <br>
+📚 Currently learning Machine Learning, APIs, and System Design
+</p>
+
+---
+
+## 🌐 Socials
+
+<p>
+<a href="https://github.com/fardu6288">GitHub</a> |
+<a href="https://linkedin.com/in/muhammad-fardan-a6b674284">LinkedIn</a>
+</p>
+
+---
+
+## 🛠️ Skills
+
+### Programming
+Python
+
+### Technologies
+Machine Learning • FastAPI • Data Analysis
+
+### Tools
+Git • VS Code
+
+---
+
+## 🚀 Projects
+
+**Semi-Automated Trading Bot**
+
+• Market scanning using SMA / EMA indicators  
+• Built with FastAPI and Zerodha Kite API  
+• Web dashboard for trade signals and execution  
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=fardu6288&show_icons=true&theme=dark" />
+
