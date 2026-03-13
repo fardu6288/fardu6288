@@ -41,13 +41,16 @@ Currently focused on machine learning, automation, and backend development.
 ### Databases & Tools
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,vscode,postman" />
 
+---
+
 ## 🚀 Projects
 
-**Semi-Automated Trading Bot**
+### 📈 Semi-Automated Trading Bot
+- 🔎 Market scanning using **SMA / EMA**
+- ⚡ Built with **FastAPI + Zerodha Kite API**
+- 📊 Dashboard for signals and trade execution
 
-• Market scanning using SMA / EMA indicators  
-• Built with FastAPI and Zerodha Kite API  
-• Web dashboard for trade signals and execution  
+**Tech:** Python • FastAPI • MySQL
 
 ---
 
